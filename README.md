@@ -14,7 +14,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🤵 Mohammed Bilal Ansari | 💻 Master's in Data Science | <img src="img\india.gif" width="30"><img src="img\taiwan.gif" width="30"> <img src="img\russia.gif" width="30"><img src="img\france.gif" width="30"></h3>
 </div>
 <p align="center">
-<!-- <a target="_blank" href="https://thomasgeorgethomas.ml/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a> -->
+<a target="_blank" href="https://bilalsp.github.io"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/mohammedbilalansari/">
 <img alt='linkedln', src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="mailto: mohammedbilalansari.official@gmail.com">
